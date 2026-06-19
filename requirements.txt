@@ -1,0 +1,14 @@
+torch
+torchvision
+transformers
+accelerate
+numpy
+pandas
+matplotlib
+Pillow
+opencv-python
+scikit-learn
+tqdm
+PyYAML
+tensorboard
+safetensors
