@@ -44,3 +44,7 @@ models/*.bin
 results/figures/
 results/demo/
 results/*.png
+outputs/**/*.pth
+outputs/**/*.bin
+outputs/**/*.safetensors
+results/demo/
