@@ -32,3 +32,15 @@ models/**/*.bin
 
 *.log
 *.tmp
+
+# Model weights (large files, not for git)
+models/*.safetensors
+models/*.pth
+models/*.bin
+*.pth
+*.safetensors
+
+# Results images
+results/figures/
+results/demo/
+results/*.png
